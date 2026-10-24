@@ -2,6 +2,8 @@ cff-version: 1.2.0
 message: "If you use this corpus, please cite the paper below."
 title: "Japanese SemCor (JSemCor)"
 type: dataset
+version: "1.1"
+date-released: "2012-03-05"
 abstract: >-
   A sense-tagged corpus of Japanese, created by translating the English
   SemCor corpus and projecting the sense tags onto the Japanese

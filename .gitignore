@@ -1,0 +1,3 @@
+traduku/traduku.sqlite
+.pytest_cache/
+__pycache__/

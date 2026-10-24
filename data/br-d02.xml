@@ -3,7 +3,7 @@
   <kafHeader>
     <fileDesc filename="br-d02"/>
     <linguisticProcessors layer="text">
-      <lp timestamp="2011-12-12T02:13:24" version="0.98" name="MeCab"/>
+      <lp timestamp="2012-03-05T04:30:05" version="0.98" name="MeCab"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
