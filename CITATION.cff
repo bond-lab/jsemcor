@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use this corpus, please cite the paper below."
+title: "Japanese SemCor (JSemCor)"
+type: dataset
+abstract: >-
+  A sense-tagged corpus of Japanese, created by translating the English
+  SemCor corpus and projecting the sense tags onto the Japanese
+  translation using the Japanese Wordnet.
+authors:
+  - family-names: Bond
+    given-names: Francis
+  - family-names: Baldwin
+    given-names: Timothy
+  - family-names: Fothergill
+    given-names: Richard
+  - family-names: Uchimoto
+    given-names: Kiyotaka
+license-url: "https://github.com/bond-lab/jsemcor/blob/main/LICENSE"
+repository-code: "https://github.com/bond-lab/jsemcor"
+keywords:
+  - Japanese
+  - SemCor
+  - wordnet
+  - sense-tagged corpus
+  - word sense disambiguation
+preferred-citation:
+  type: conference-paper
+  title: "Japanese SemCor: A Sense-tagged Corpus of Japanese"
+  authors:
+    - family-names: Bond
+      given-names: Francis
+    - family-names: Baldwin
+      given-names: Timothy
+    - family-names: Fothergill
+      given-names: Richard
+    - family-names: Uchimoto
+      given-names: Kiyotaka
+  collection-title: "Proceedings of the 6th Global WordNet Conference (GWC 2012)"
+  conference:
+    name: "6th Global WordNet Conference (GWC 2012)"
+    city: Matsue
+    country: JP
+  year: 2012
+  start: 56
+  end: 63
+  url: "https://bond-lab.github.io/static/pdf/2012-gwc-jsemcor.pdf"
