@@ -1,0 +1,65 @@
+{
+  "title": "Japanese SemCor (JSemCor): A Sense-tagged Corpus of Japanese",
+  "upload_type": "dataset",
+  "description": "<p>A sense-tagged corpus of Japanese, created by translating the English SemCor corpus and projecting the sense tags from English onto the Japanese translation. It contains 116 texts from the Brown Corpus (about 14,000 sentences), with content words tagged with synsets from the Japanese Wordnet (version 1.1).</p><p>Version 1.0 (2011-12-12) is the release described in the GWC 2012 paper. Version 1.1 (2012-03-05) adds closed-class terms, links from each Japanese word to the English SemCor 3.0 token it translates, and a sanitised copy of the database of the translation interface.</p><p>The data are in the Kyoto Annotation Format (KAF). JSemCor is released under the same license as the English SemCor, the Princeton WordNet license (see the LICENSE file).</p>",
+  "creators": [
+    {
+      "name": "Bond, Francis",
+      "affiliation": "Nanyang Technological University",
+      "orcid": "0000-0003-4973-8068"
+    },
+    {
+      "name": "Baldwin, Timothy",
+      "affiliation": "University of Melbourne",
+      "orcid": "0000-0003-4525-6950"
+    },
+    {
+      "name": "Fothergill, Richard",
+      "affiliation": "University of Melbourne"
+    },
+    {
+      "name": "Uchimoto, Kiyotaka",
+      "affiliation": "National Institute of Information and Communications Technology"
+    }
+  ],
+  "license": "other-open",
+  "access_right": "open",
+  "language": "jpn",
+  "keywords": [
+    "Japanese",
+    "SemCor",
+    "wordnet",
+    "Japanese Wordnet",
+    "sense-tagged corpus",
+    "word sense disambiguation",
+    "parallel corpus",
+    "KAF"
+  ],
+  "notes": "License: Princeton WordNet license (the license of the English SemCor). Please cite: Francis Bond, Timothy Baldwin, Richard Fothergill, and Kiyotaka Uchimoto (2012). Japanese SemCor: A Sense-tagged Corpus of Japanese. In Proceedings of the 6th Global WordNet Conference (GWC 2012), Matsue, pp. 56-63.",
+  "related_identifiers": [
+    {
+      "identifier": "https://bond-lab.github.io/static/pdf/2012-gwc-jsemcor.pdf",
+      "relation": "isDescribedBy",
+      "resource_type": "publication-conferencepaper",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.cse.unt.edu/~rada/downloads.html#semcor",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "10.1017/S1351324905003839",
+      "relation": "references",
+      "resource_type": "publication-article",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "https://bond-lab.github.io/wnja/",
+      "relation": "references",
+      "resource_type": "dataset",
+      "scheme": "url"
+    }
+  ]
+}

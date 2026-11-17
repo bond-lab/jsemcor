@@ -2,6 +2,8 @@ cff-version: 1.2.0
 message: "If you use this corpus, please cite the paper below."
 title: "Japanese SemCor (JSemCor)"
 type: dataset
+version: "1.0"
+date-released: "2011-12-12"
 abstract: >-
   A sense-tagged corpus of Japanese, created by translating the English
   SemCor corpus and projecting the sense tags onto the Japanese
@@ -9,8 +11,10 @@ abstract: >-
 authors:
   - family-names: Bond
     given-names: Francis
+    orcid: "https://orcid.org/0000-0003-4973-8068"
   - family-names: Baldwin
     given-names: Timothy
+    orcid: "https://orcid.org/0000-0003-4525-6950"
   - family-names: Fothergill
     given-names: Richard
   - family-names: Uchimoto
@@ -29,8 +33,10 @@ preferred-citation:
   authors:
     - family-names: Bond
       given-names: Francis
+      orcid: "https://orcid.org/0000-0003-4973-8068"
     - family-names: Baldwin
       given-names: Timothy
+      orcid: "https://orcid.org/0000-0003-4525-6950"
     - family-names: Fothergill
       given-names: Richard
     - family-names: Uchimoto
