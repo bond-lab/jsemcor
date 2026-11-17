@@ -21,6 +21,10 @@ authors:
     given-names: Kiyotaka
 license-url: "https://github.com/bond-lab/jsemcor/blob/main/LICENSE"
 repository-code: "https://github.com/bond-lab/jsemcor"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24314496
+    description: "Zenodo concept DOI (all versions)"
 keywords:
   - Japanese
   - SemCor

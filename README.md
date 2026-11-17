@@ -1,5 +1,7 @@
 # Japanese SemCor (JSemCor)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24314496.svg)](https://doi.org/10.5281/zenodo.24314496)
+
 A sense-tagged corpus of Japanese, created by translating the English
 [SemCor](https://www.cse.unt.edu/~rada/downloads.html#semcor) corpus and
 projecting the sense tags from English onto the Japanese translation.
@@ -17,7 +19,11 @@ sense-tagged with synsets from the
 - Richard Fothergill
 - Kiyotaka Uchimoto
 
-## Citation
+## Download and citation
+
+All versions are archived on Zenodo:
+[doi:10.5281/zenodo.24314496](https://doi.org/10.5281/zenodo.24314496)
+(the DOI always resolves to the latest version).
 
 If you use this corpus, please cite:
 
@@ -43,8 +49,8 @@ If you use this corpus, please cite:
 
 | Version | Date | Contents |
 |---|---|---|
-| [1.0](https://github.com/bond-lab/jsemcor/tree/v1.0) | 2011-12-12 | Release described in the paper: open-class terms and Japanese Wordnet sense tags. |
-| 1.1 (current) | 2012-03-05 | Adds closed-class terms, links to the English SemCor tokens, and sense-tag confidence. Revised translations for `br-f24`. |
+| [1.0](https://github.com/bond-lab/jsemcor/releases/tag/v1.0) ([doi:10.5281/zenodo.24314497](https://doi.org/10.5281/zenodo.24314497)) | 2011-12-12 | Release described in the paper: open-class terms and Japanese Wordnet sense tags. |
+| [1.1](https://github.com/bond-lab/jsemcor/releases/tag/v1.1) ([doi:10.5281/zenodo.24314650](https://doi.org/10.5281/zenodo.24314650)) | 2012-03-05 | Adds closed-class terms, links to the English SemCor tokens, and sense-tag confidence. Revised translations for `br-f24`. |
 
 Version 1.1 was produced by Richard Fothergill (University of Melbourne)
 in March 2012 and added to this repository in October 2026. He
